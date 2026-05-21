@@ -1,68 +1,45 @@
-# Azure Linux High Availability Infrastructure
+# Kiran Kumar
 
-## Overview
-
-Built a highly available Linux infrastructure environment in Microsoft Azure using Ubuntu virtual machines, Azure Load Balancer, NSG-based traffic filtering, Nginx web hosting, HTTPS, and SSH hardening.
+Linux System Administrator | Cloud Infrastructure Support | Azure & AWS
 
 ---
 
-## Architecture
+## About Me
 
-Internet
-   ↓
-Azure Load Balancer
-   ↓
-vm-web-01
-vm-web-02
+Hands-on Linux administration and infrastructure troubleshooting practice across VMware, Azure, and AWS environments.
+
+Focused on:
+- Linux troubleshooting
+- Azure VM administration
+- SSH and networking
+- Nginx and HTTPS
+- Infrastructure monitoring
+- Operational support scenarios
 
 ---
 
-## Technologies Used
+## Featured Projects
 
-- Ubuntu 24.04
-- Azure Virtual Machines
-- Azure Load Balancer
-- Azure NSG
-- Azure VNet
+### Azure Linux High Availability Infrastructure
+Multi-VM Azure environment with NSG, Load Balancer, HTTPS, and SSH hardening.
+
+### AWS Linux Operations Environment
+AWS EC2-based Linux infrastructure with VPC, Security Groups, and connectivity troubleshooting.
+
+### Linux Lab Scripts & Documentation
+Linux administration notes, Bash scripts, troubleshooting scenarios, and infrastructure documentation.
+
+---
+
+## Core Skills
+
+- RHEL / CentOS
+- Ubuntu Linux
+- SSH Troubleshooting
+- DNS / Networking
 - Nginx
-- Certbot SSL
-- SSH Key Authentication
-- Azure Monitor
-
----
-
-## Features
-
-- High availability web deployment
-- Load balancer failover testing
-- HTTPS-enabled custom domain
-- SSH key-based authentication
-- NSG traffic filtering
-- Linux troubleshooting practice
-- Monitoring and incident simulation
-
----
-
-## Troubleshooting Scenarios Practiced
-
-- SSH connection failures
-- NSG rule misconfiguration
-- Nginx service outages
-- DNS resolution issues
-- Disk space exhaustion
-- High CPU utilization
-- SSL certificate troubleshooting
-
----
-
-## Linux Commands Used
-
-```bash
-df -h
-du -sh /*
-top
-ps -ef
-journalctl -xe
-systemctl status nginx
-ss -tulnp
-curl
+- Azure Infrastructure
+- AWS EC2
+- Bash Scripting
+- VMware
+- Git / GitHub
