@@ -1,45 +1,91 @@
 # Kiran Kumar
 
-Linux System Administrator | Cloud Infrastructure Support | Azure & AWS
-
----
+Linux System Administrator | Azure Support | Cloud Infrastructure & Troubleshooting
 
 ## About Me
 
-Hands-on Linux administration and infrastructure troubleshooting practice across VMware, Azure, and AWS environments.
+Hands-on Linux and cloud infrastructure support learner focused on Azure VM administration, Linux troubleshooting, networking, monitoring, and production-style incident simulation across Azure and AWS environments.
 
 Focused on:
-- Linux troubleshooting
-- Azure VM administration
-- SSH and networking
-- Nginx and HTTPS
-- Infrastructure monitoring
-- Operational support scenarios
+- Linux Administration
+- Azure Infrastructure Support
+- AWS Fundamentals
+- SSH & Network Troubleshooting
+- Nginx & HTTPS Configuration
+- Infrastructure Monitoring
+- Operational Support Scenarios
 
 ---
 
 ## Featured Projects
 
 ### Azure Linux High Availability Infrastructure
-Multi-VM Azure environment with NSG, Load Balancer, HTTPS, and SSH hardening.
 
-### AWS Linux Operations Environment
-AWS EC2-based Linux infrastructure with VPC, Security Groups, and connectivity troubleshooting.
+Production-style Azure infrastructure project using:
+- Ubuntu Linux virtual machines
+- Azure Load Balancer
+- NSG traffic filtering
+- HTTPS with Certbot SSL
+- SSH hardening
+- Backend health probes
+- Infrastructure troubleshooting simulation
 
-### Linux Lab Scripts & Documentation
-Linux administration notes, Bash scripts, troubleshooting scenarios, and infrastructure documentation.
+Repository:
+https://github.com/ch33kiran-a1/azure-linux-ha-infrastructure
+
+Live Website:
+https://azure.kirantechlab.online
 
 ---
 
-## Core Skills
+## Technical Skills
 
-- RHEL / CentOS
+### Linux
 - Ubuntu Linux
-- SSH Troubleshooting
-- DNS / Networking
+- Service management
+- SSH troubleshooting
+- User & permission management
+- Log analysis
+- Disk & CPU monitoring
+- Bash scripting
+
+### Microsoft Azure
+- Azure Virtual Machines
+- Azure VNet
+- Network Security Groups (NSG)
+- Azure Load Balancer
+- Managed Disks
+- Azure Monitor
+
+### AWS
+- EC2
+- VPC
+- Security Groups
+- Elastic IP
+
+### Tools
+- Git & GitHub
 - Nginx
-- Azure Infrastructure
-- AWS EC2
-- Bash Scripting
-- VMware
-- Git / GitHub
+- DNS Troubleshooting
+
+---
+
+## Troubleshooting Areas Practiced
+
+- SSH access failures
+- NSG misconfiguration
+- Nginx service outages
+- HTTPS certificate issues
+- DNS resolution issues
+- High CPU utilization
+- Disk space issues
+- Azure Load Balancer backend failures
+
+---
+
+## Current Focus
+
+- Linux System Administration
+- Azure Support Engineering
+- Cloud Infrastructure Operations
+- Real-world troubleshooting practice
